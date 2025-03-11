@@ -4,7 +4,6 @@
 
 ## study
 
-* [Git & GitHub](study/quickstart/README.md)
-  * [기초](study/quickstart/undefined.md)
-  * [Branch](study/quickstart/branch.md)
-* [Web](study/publish-your-docs.md)
+* [Git & GitHub](study/git/README.md)
+  * [기초](study/git/basics.md)
+  * [Branch](study/git/branch.md)
