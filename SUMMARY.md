@@ -7,6 +7,7 @@
 * [Git & GitHub](study/git/README.md)
   * [기초](study/git/basics.md)
   * [Branch](study/git/branch.md)
+  * [GitHub](study/git/github.md)
 * [Web](study/web/README.md)
 
 ## Troubleshooting
