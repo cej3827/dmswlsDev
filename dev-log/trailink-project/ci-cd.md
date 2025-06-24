@@ -73,4 +73,12 @@ jobs:
   * Node.js 패키지를 설치한다.
   * PM2로 관리하는 server라는 이름의 프로세스를 재시작한다.
 
+{% hint style="info" %}
+$\{{ secrets.변수 \}} 는 github 레포에서 settings - security 탭에서 secrets and varaibles - actions - new repository secret 버튼을 누르면 등록할 수 있다.
+
+![](<../../.gitbook/assets/스크린샷 2025-06-24 오후 4.36.56 (1).png>)
+{% endhint %}
+
+***
+
 ## 결과
